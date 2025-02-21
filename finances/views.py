@@ -89,3 +89,4 @@ class MonthlyReportAPIView(APIView):
                 for item in expense_by_category
             ]
         })
+        
